@@ -1,0 +1,18 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ServiceStarter",
+            "request": "launch",
+            "mainClass": "app.ServiceStarter",
+            "projectName": "testproject"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - App",
+            "request": "launch",
+            "mainClass": "app.App",
+            "projectName": "testproject"
+        }
+    ]
+}
